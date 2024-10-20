@@ -2,9 +2,9 @@
 
 ‼️ Important! Before you start doing tasks, create a data.json file at the path `wave-2/submissions/validator_moniker/data.json`, where `validator_moniker` is the name of your validator.</br>
 </br>
-`validator_address` - your validator address (valoper)</br>
-`discord_id` - your discord id</br>
-`discord_username` - your discord username</br>
+`validator_address` - story1pwy6nm4k6ym05aw9waz6sakzh5n2gjg3tkjtyv (valoper)</br>
+`discord_id` - oshara410#9780 </br>
+`discord_username` - oshara410</br>
 </br>
 In `data.json`, fill in the contents:
 ```
